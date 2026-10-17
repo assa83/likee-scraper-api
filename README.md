@@ -127,11 +127,15 @@ Pay per result (one video or one profile summary row), platform usage included, 
 
 Filtered-out videos are never charged. Details on [lagenuina_agency/likee-scraper](https://apify.com/lagenuina_agency/likee-scraper).
 
-## More APIs from Quelli di Carne Genuina
+## More tools from Quelli di Carne Genuina
 
-- [Google Trends API](https://apify.com/lagenuina_agency/google-trends-scraper) – interest over time, regions, rising queries, Trending Now.
-- [Google Ads Transparency API](https://apify.com/lagenuina_agency/google-ads-transparency-scraper) – every ad a brand runs on Google Search, YouTube and Shopping.
-- [LinkedIn Ad Library API](https://apify.com/lagenuina_agency/linkedin-ad-library-scraper) – B2B ads of any company with targeting and impressions.
+- **Ad intelligence:** [Google Ads Transparency](https://github.com/assa83/google-ads-transparency-api) · [Meta Ad Library](https://github.com/assa83/facebook-ad-library-api) · [TikTok Top Ads](https://github.com/assa83/tiktok-top-ads-api) · [LinkedIn Ad Library](https://github.com/assa83/linkedin-ad-library-api)
+- **Competitor & SEO research:** [Similarweb traffic](https://github.com/assa83/similarweb-traffic-api) · [Google Trends](https://github.com/assa83/google-trends-api-python) · [Google Play](https://github.com/assa83/google-play-scraper-api)
+- **Travel prices:** [Google Hotels](https://github.com/assa83/google-hotels-prices-api) · [Google Flights](https://github.com/assa83/google-flights-api)
+- **Retail prices:** [Woolworths & Coles](https://github.com/assa83/australian-supermarket-prices-api)
+- **Content & social data:** [YouTube Transcript](https://github.com/assa83/youtube-transcript-scraper-api) · [Medium](https://github.com/assa83/medium-scraper-api)
+
+All actors: [apify.com/lagenuina_agency](https://apify.com/lagenuina_agency) · Tutorials: [assa83.github.io](https://assa83.github.io)
 
 ## Disclaimer
 
