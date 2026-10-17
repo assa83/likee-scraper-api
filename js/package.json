@@ -1,0 +1,14 @@
+{
+  "name": "likee-scraper-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Likee scraper API example in Python, JavaScript and n8n: export Likee videos, views, likes, comments, shares, engagement rate and creator followers to CSV. MCP-ready.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.25.0"
+  }
+}
